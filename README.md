@@ -13,7 +13,7 @@ perform analysis on kickstarter
 ### Analysis of Outcomes Based on Launch Date
 
 **Image:**
-![outcome based on launchdate](C:\Users\raman\Desktop\class\excel\PIVOT PICTURE/to/outcome based on launchdate.png)
+![outcome based on launchdate](C:/to/outcome based on launchdate.png)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -24,7 +24,7 @@ This table and chart describes the outcome based on GOALS of PLAYS "subcategory"
     - for the PLAYS category the percentage of fails is more than 6 times in compare to successful coloumn.
     - Basically, when the ratio of success is increase the ratio of fail is declined and vise versa. it happens because there are no canceled Plays under subcategory.
     **Image:**
-    ![Outcomes_vs_Goals](C:\Users\raman\Desktop\class\excel\PIVOT PICTURE/to/Outcomes_vs_Goals.png)
+    ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
     
 
 ### Challenges and Difficulties Encountered
