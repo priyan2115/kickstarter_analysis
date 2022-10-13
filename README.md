@@ -11,6 +11,9 @@ perform analysis on kickstarter
 
 ### Analysis of Outcomes Based on Launch Date
 
+**Image:**
+![outcome based on launchdate](C:\Users\raman\Desktop\class\excel\PIVOT PICTURE/to/outcome based on launchdate.png)
+
 ### Analysis of Outcomes Based on Goals
 
 This table and chart describes the outcome based on GOALS of PLAYS "subcategory". The goals are differentiate into 5000 ranges from <1000 to >50,000.
@@ -19,6 +22,9 @@ This table and chart describes the outcome based on GOALS of PLAYS "subcategory"
     - into, percentage of successful outcome coloumn 67% is repetative number for 35,000 to 39,999 and 40,000 to 44,999. there are also repatative number for same ranges of goal coloumn in fail category which is 33%.
     - for the PLAYS category the percentage of fails is more than 6 times in compare to successful coloumn.
     - Basically, when the ratio of success is increase the ratio of fail is declined and vise versa. it happens because there are no canceled Plays under subcategory.
+    **Image:**
+    ![Outcomes_vs_Goals](C:\Users\raman\Desktop\class\excel\PIVOT PICTURE/to/Outcomes_vs_Goals.png)
+    
 
 ### Challenges and Difficulties Encountered
 
