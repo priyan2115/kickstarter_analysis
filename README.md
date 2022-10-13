@@ -61,7 +61,8 @@ I found that one table which is based on currency from which we can found the ou
 "outcomebased on currency"  is located on the page "Outcomes based on Goal" in kickstarter_Challenge.xlsx
 
 **Image**
-![outcome_vs_Goals](Resources/Outcomes_vs_Goals.png/to/Outcome_vs_Goals.png)
+![Outcome_vs_Goals](Resources/Outcomes_vs_Goals.png/to/Outcome_vs_Goals.png)
+
 
  There is also possible tables from filtering on outcomes values with launch date like "theater outcomes by launchdate" table and chart. for example: food,game,music,so on.
 
