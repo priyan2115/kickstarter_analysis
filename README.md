@@ -13,7 +13,7 @@ perform analysis on kickstarter
 ### Analysis of Outcomes Based on Launch Date
 
 **Image:**
-![outcome based on launchdate](C:/to/outcome based on launchdate.png)
+![outcome based on launchdate](Resources/outcome based on launchdate.png)
 
 ### Analysis of Outcomes Based on Goals
 
