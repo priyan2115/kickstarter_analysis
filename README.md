@@ -11,6 +11,18 @@ perform analysis on kickstarter
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+   This table and chart shows the outcomes data from the **date created conversion column** which is basically human readable form of **launch date column**in kikstarter_challenge.
+   - In this table column are under outcomes category and rows are launch date which is converted into group of months.
+   - We can use the filter on parent catgory and year too.
+   - We apply the filter on parent category is **theater** so this table called theater outcome based on launchdate.
+   - We can found from the tablee that canceled outcomes are below 10 in every months and the maximum canceled outcomes is 7 in january month.
+   - The **maximum** number of successful outcomes are in the month of **MAY** and it found **lowest** in the month of **DECEMBER** which are 111 and 37.
+   - If we can noticed that the outcomes of **fail** is in between the range of **30 to 55** each month.
+   - The **total of outcomes by months** is equal to the **squre root of grand total**.
+   - The success number for MAY is the **67%** of total number of outcomes in that month.
+   - We can also illustrated from graph that at the middle of the year the outcome is suddenly raised above 110 and then it gradually droped at the end of the year.
+   - For the **failed** we didn't notice that sudden changes like successful but it is always fluctuated from starting to the end.
+   - Overall the successful outcomes ratio is **more than half in compare with Total number of outcomes". 
 
 **Image:**
 ![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
