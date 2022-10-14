@@ -4,9 +4,18 @@ perform analysis on kickstarter
 # Kickstarting with Excel
 
 ## Overview of Project
+  **kickstarter_challanges** project contains large amount of data set in excelsheet so we has to perform different kind of function and fillters and validations for this project which is very usefull to understand how the excel works as well as how we can use excel for our different needs. This project is very usefull to summerize and learning excel from basic to advance.
+  -This project covered every mendatory functions of excel which is very important for the strong start of this Bootcamp activities.
+  -From this project we learn from **cell formating to filltering data with the use of different functions like sum(),count(),round(),average(),if(),countifs(),and so on.**
+  - there are 21 column and around 4200 rows and from using that data we create pivote tables and charts which describe the information more clearly and in well mannered form.
+  - this project contains 5 charts and pivote tables as well as one reserch table too.
 
 
 ### Purpose
+  - The main purpose of this project is to make student used to for the large amount of data set and work on that project with focused mind. 
+  - The another purpose is to giving awearness about the excel and their different functionalities and how they can maximum used excel for retriving their result from using that.
+  - make student confident about their ability of doing this with confidence.
+  - The very important purpose of this project is that how accuratelly they learning the things from the classes and apply in this project.
 
 ## Analysis and Challenges
 
@@ -29,17 +38,18 @@ perform analysis on kickstarter
 
 ### Analysis of Outcomes Based on Goals
 
-This table and chart describes the outcome based on GOALS of PLAYS "subcategory". The goals are differentiate into 5000 ranges from <1000 to >50,000.
-    - first we can see that there are no canceled PLAYS.So, outcomes divided into only 2 parts; Successful and Fail category.
+This table and chart describes the outcome based on GOALS of PLAYS "subcategory". The goals are differentiate into **5000 ranges from <1000 to >50,000**.
+    - first we can see that there are **no canceled PLAYS**.So, outcomes divided into only 2 parts; **Successful and Fail** category.
     - There are only 0 successful and 1 fail outcome shown between the range of 45,000 to 49,999.So the persentage of success is 0 and for fail it displays 100% between this range.
-    - into, percentage of successful outcome coloumn 67% is repetative number for 35,000 to 39,999 and 40,000 to 44,999. there are also repatative number for same ranges of goal coloumn in fail category which is 33%.
-    - for the PLAYS category the percentage of fails is more than 6 times in compare to successful coloumn.
-    - Basically, when the ratio of success is increase the ratio of fail is declined and vise versa. it happens because there are no canceled Plays under subcategory.
+    - Between the goal ranges **35,000 to 39,999 and 40,000 to 44,999** there are same  percentage of successful outcome which is  **67**  there are also repatative number for same ranges of goal coloumn in **fail category which is 33%.**
+    - for the **PLAYS** category the **percentage of fails** is more than **6 times **in compare to successful coloumn.**
+    - Basically, when the ratio of success is** increase **the ratio of fail is declined and vise versa.** it happens because there are no canceled Plays under subcategory.
     **Image:**
     ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
     
 
 ### Challenges and Difficulties Encountered
+  
 
 ## Results
 
@@ -61,16 +71,16 @@ This table and chart describes the outcome based on GOALS of PLAYS "subcategory"
     - Basically, when the ratio of success is increase the ratio of fail is declined and vise versa. it happens because there are no canceled Plays under subcategory.
 
 
-- **What are some limitations of this dataset?
-**
-remaining..
+- **What are some limitations of this dataset?**
+
+    
+
 
 - **What are some other possible tables and/or graphs that we could create?**
 I found that one table which is based on currency from which we can found the outcomes and chart from that table too.
 
-## Link:
-[Kickstarter_Challenge](C:\Users\raman\Desktop\modual 1 challange/to/Kickstarter_Challenge.xlxs
-"outcomebased on currency"  is located on the page "Outcomes based on Goal" in kickstarter_Challenge.xlsx
+## Image ##:
+![Outcome_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
 **Image**
 ![Outcome_vs_Goals](Resources/Outcomes_vs_Goals.png)
