@@ -80,7 +80,7 @@ This table and chart describes the outcome based on GOALS of PLAYS "subcategory"
 I found that one table which is based on currency from which we can found the outcomes and chart from that table too.
 
 ## Image ##:
-![Outcome_vs_Goals](Resources/Outcomes_vs_Goals.png)
+![outcome based on currency](Resources/outcome based on currency.png)
 
 **Image**
 ![Outcome_vs_Goals](Resources/Outcomes_vs_Goals.png)
